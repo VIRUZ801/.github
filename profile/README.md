@@ -8,7 +8,7 @@ this repository was created as a learning resource for those interested in deepe
 
 ---
 
-### Topics Covered `to do self-study`
+### Topics Covered `to do self-study` :: [**NOTES**](https://github.com/VIRUZ801/notes/tree/main)
 
 This repository includes resources, scripts, and tools related to:
 
